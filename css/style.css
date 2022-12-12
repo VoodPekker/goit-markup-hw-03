@@ -13,15 +13,9 @@
 }
 
 body {
-  background-color: #E5E5E5;       /* для загального фону html */
   font-family: var(--font-main);
   color: var(--color-text);
-  /* width: 1440px; */                 /* щоб було обмеження як у макеті */
   margin: auto
-}
-
-header, main {
-  background-color: #FFFFFF;      /* для загального фону сторінки */
 }
 
 section {
